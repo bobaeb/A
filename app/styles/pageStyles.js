@@ -65,7 +65,7 @@ const style = css`
     background-color: lightgrey;
     float: right;
   }
-.b-content li {
+.b-content div {
     width: 230px;
     height: 100%;
     background-color: gray;
