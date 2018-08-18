@@ -53,6 +53,7 @@ const style = css`
   .b1 {
     width: 230px;
     height: 100%;
+    float: left;
   }
   .b1 h3 {
     width: 100px;
@@ -62,11 +63,13 @@ const style = css`
   .b1 .content {
     height: 230px;
     background-color: lightgrey;
+    float: right;
   }
 .b-content li {
     width: 230px;
     height: 100%;
     background-color: gray;
+    float: left;
 }
 .b-content .p {
    height: 10px;
