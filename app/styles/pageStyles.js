@@ -43,12 +43,12 @@ const style = css`
     position: absolute;
     left: 50%;
     margin-left: -200px;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     background-color: darkgray;
   }
   .img {
     width: 100%;
-    height: 740px;
+    height: 700px;
     background-color: red;
     position: absolute;
     bottom: 0;
@@ -57,16 +57,17 @@ const style = css`
   }
   .bottom {
     width: 300px;
-    height: 60px;
+    height: 200px;
     margin: 0 auto;
     position: relative;
 
   }
   .b1 {
     width: 300px;
-    height: 30px;
+    height: 70px;
     background-color: darkgray;
     margin-top: 30px;
+    margin-bottom: 30px;
   }
   p {
     display: block;
