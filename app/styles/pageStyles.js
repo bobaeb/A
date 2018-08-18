@@ -62,6 +62,7 @@ const style = css`
     width: 300px;
     height: 30px;
     background-color: darkgray;
+    margin-top: 20px;
   }
   p {
     display: block;

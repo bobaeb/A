@@ -20,10 +20,10 @@ class HomePage extends Component {
           </div>
 
           <div className='middle'>
-               <div className='title'></div>
-               
+               <h2 className='title'></h2>
+               <div className='img'></div>
           </div>
-          <div className='img'></div>
+          
 
           <div className='bottom'>
                <div className='b1'></div>
