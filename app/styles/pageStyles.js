@@ -66,7 +66,7 @@ const style = css`
     width: 300px;
     height: 70px;
     background-color: darkgray;
-    margin-top: 40px;
+    margin-top: 70px;
    
   }
   p {
