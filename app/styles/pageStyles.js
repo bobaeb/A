@@ -48,10 +48,8 @@ const style = css`
   .img {
     width: 100%;
     height: 760px;
-    margin-top: 20px;
     background-color: red;
-    position: absolute;
-    left: 0;
+  
   }
   .bottom {
     width: 300px;
@@ -72,6 +70,7 @@ const style = css`
     background-color: gray;
     position: absolute;
     left: 50%;
+    margin-left: -100px;
     bottom: 0;
     
   }
