@@ -66,8 +66,8 @@ const style = css`
     width: 300px;
     height: 70px;
     background-color: darkgray;
-    margin-top: 30px;
-    margin-bottom: 10px;
+    margin-top: 40px;
+   
   }
   p {
     display: block;
