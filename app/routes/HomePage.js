@@ -16,9 +16,20 @@ class HomePage extends Component {
 <div className='blue'>
        Hello World !!
 </div>
+
+<div className='blue'>
+       Hello World !!
+</div>
        
 
       </div>
+
+      
+
+
+       
+
+      
     ); // eslint-disable-line
   }
 }
