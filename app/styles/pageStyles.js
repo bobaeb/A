@@ -2,13 +2,12 @@ import { css } from 'styled-components'
 
 const style = css`
   body {
-    margin:0;
-    padding:0;
+
   }
   .header {
     width: 960px;
-    height: 70px;
-    margin: 0 auto;
+    height: 90px;
+    margin: 20px auto;
     position: relative;
   }
   .header h1{
