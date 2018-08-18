@@ -17,7 +17,7 @@ module.exports = (options) => ({
 	output: {
 		path: path.join(process.cwd(), '.structor/desk/__build__'),
 		filename: 'bundle.js',
-		publicPath: '/structor-dev/__build__',
+		publicPath: 'A',
 	},
 
 	module: {
