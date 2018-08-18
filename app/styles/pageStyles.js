@@ -13,7 +13,7 @@ const style = css`
 
   .red {
     background: red;
-    color: cadetblue;
+    color: white;
     height: 300px;
     width: 500px;
     margin: 0 auto;
