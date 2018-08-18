@@ -51,7 +51,7 @@ const style = css`
     background-color: red;
     position: absolute;
     bottom: 0;
-    margin-top: 20px;
+    padding-top: 30px;
   
   }
   .bottom {
@@ -65,7 +65,7 @@ const style = css`
     width: 300px;
     height: 30px;
     background-color: darkgray;
-    margin-top: 10px;
+    margin-top: 30px;
   }
   p {
     display: block;
