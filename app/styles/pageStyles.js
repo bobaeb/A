@@ -39,11 +39,11 @@ const style = css`
   
   .title {
     width: 400px;
-    height: 60px;
+    height: 50px;
     position: absolute;
     left: 50%;
     margin-left: -200px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     background-color: darkgray;
   }
   .img {
