@@ -2,6 +2,8 @@ import { css } from 'styled-components'
 
 const style = css`
   body {
+    margin:0;
+    padding:0;
   }
   .header {
     width: 960px;
