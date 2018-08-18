@@ -51,6 +51,7 @@ const style = css`
     margin: 0 auto;
   }
   .b1 {
+    margin-top: 20px;
     width: 230px;
     height: 100%;
    
