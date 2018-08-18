@@ -48,12 +48,12 @@ const style = css`
   .bottom {
     width: 960px;
     height: 400px;
-    margin: 0 auto;
+    margin: 20px auto;
   }
   .b1 {
-    margin-top: 20px;
     width: 230px;
     height: 100%;
+    float: left;
    
   }
   .b1 h3 {
@@ -62,20 +62,24 @@ const style = css`
     background-color: gray;
   }
   .b1 .content {
-    height: 230px;
+    width: 720px;
+    height: 400px;
     background-color: lightgrey;
+    float: right;
    
   }
-.b-content div {
-    width: 230px;
-    height: 100%;
-    background-color: gray;
-    
-}
-.b-content .p {
-   height: 10px;
-   background-color: darkgray;
- }
+  .b1 .content li {
+    float: left;
+    width: 200px;
+    height: 350px;
+    background-color: darkgray;
+  }
+  .b1 .content .p{
+    width: 720px;
+    height: 20px;
+    background-color: darkgray;
+    margin-top: 20px;
+  }
 `
 
 export default style
