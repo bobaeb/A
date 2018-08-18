@@ -43,15 +43,16 @@ const style = css`
     position: absolute;
     left: 50%;
     margin-left: -200px;
+    margin-bottom: 30px;
     background-color: darkgray;
   }
   .img {
     width: 100%;
-    height: 760px;
+    height: 740px;
     background-color: red;
     position: absolute;
     bottom: 0;
-    padding-top: 30px;
+    
   
   }
   .bottom {
