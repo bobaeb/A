@@ -27,21 +27,9 @@ class HomePage extends Component {
           </div>
 
           <div className='bottom'>
-               <div className='b1'>
-                  <h3>title2</h3>
-                  <div className='content'></div>
-               </div>
-               <ul className='b-content'>
-                  <li></li>
-                  <li></li>
-                  <li></li>
-                  <li></li>
-                  <li className='p'></li>
-               </ul>
-                
-               <div>
-                 <p></p>
-               </div>
+               <div className='b1'></div>
+               <p></p>
+               
           </div>
 
          
