@@ -10,6 +10,14 @@ const style = css`
     width: 500px;
     margin: 0 auto;
   }
+
+  .red {
+    background: blue;
+    color: cadetblue;
+    height: 300px;
+    width: 500px;
+    margin: 0 auto;
+  }
 `
 
 export default style
