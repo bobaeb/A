@@ -36,6 +36,7 @@ const style = css`
     margin: 0 auto;
     position: relative;
   }
+  
   .title {
     width: 400px;
     height: 60px;
@@ -47,12 +48,16 @@ const style = css`
   .img {
     width: 100%;
     height: 760px;
-    margin-top: 80px;
+    margin-top: 20px;
     background-color: red;
+    position: absolute;
+    left: 0;
   }
   .bottom {
     width: 300px;
+    height: 60px;
     margin: 0 auto;
+    position: relative;
 
   }
   .b1 {
@@ -64,8 +69,11 @@ const style = css`
     display: block;
     width: 200px;
     height: 10px;
-    text-align: center;
     background-color: gray;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    
   }
 `
 
