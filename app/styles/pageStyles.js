@@ -65,7 +65,7 @@ const style = css`
   }
   .b1 {
     width: 300px;
-    height: 70px;
+    height: 80px;
     background-color: darkgray;
     margin-top: 70px;
    
@@ -73,7 +73,7 @@ const style = css`
   p {
     display: block;
     width: 200px;
-    height: 20px;
+    height: 40px;
     background-color: gray;
     position: absolute;
     left: 50%;
