@@ -12,7 +12,7 @@ const style = css`
   }
 
   .red {
-    background: blue;
+    background: red;
     color: cadetblue;
     height: 300px;
     width: 500px;
