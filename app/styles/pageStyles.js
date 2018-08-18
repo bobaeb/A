@@ -6,6 +6,9 @@ const style = css`
   .blue {
     background: blue;
     color: cadetblue;
+    height: 300px;
+    width: 500px;
+    margin: 0 auto;
   }
 `
 
