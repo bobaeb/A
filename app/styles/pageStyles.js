@@ -49,6 +49,8 @@ const style = css`
     width: 100%;
     height: 760px;
     background-color: red;
+    position: absolute;
+    bottom: 0;
   
   }
   .bottom {
@@ -62,7 +64,7 @@ const style = css`
     width: 300px;
     height: 30px;
     background-color: darkgray;
-    margin-top: 20px;
+    margin-top: 10px;
   }
   p {
     display: block;
