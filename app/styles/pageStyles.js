@@ -5,7 +5,7 @@ const style = css`
   }
   .blue {
     background: blue;
-    color: wheat;
+    color: cadetblue;
   }
 `
 

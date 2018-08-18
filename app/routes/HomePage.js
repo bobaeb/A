@@ -14,8 +14,7 @@ class HomePage extends Component {
       <div>
 
 <div className='blue'>
-
-       Hello Colorful World 🖍
+       Hello World !!
 </div>
        
 
