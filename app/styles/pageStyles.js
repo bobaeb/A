@@ -67,7 +67,7 @@ const style = css`
     height: 70px;
     background-color: darkgray;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
   p {
     display: block;
