@@ -47,7 +47,7 @@ const style = css`
   .img {
     width: 100%;
     height: 760px;
-    margin-top: 20px;
+    margin-top: 80px;
     background-color: red;
   }
   .bottom {
